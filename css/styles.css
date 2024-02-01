@@ -1,8 +1,8 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    margin: 40px;
-    display: inline;
+    margin: 30px;
+    display: flex;
 }
 
 .info, .info2 {
